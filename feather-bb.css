@@ -361,7 +361,7 @@
 .icon-list:before {
   content: "\e9e5";
 }
-.icon-loader:before {
+.icon-refresh:before, .icon-loader:before {
   content: "\e9e6";
 }
 .icon-lock:before {
